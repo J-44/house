@@ -1,0 +1,30 @@
+<html>
+
+<head>
+    <title>Hobby</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crimson+Pro">
+    <ul>
+        <li class="link"><a href="#about">ABOUT</a></li>
+        <li class="link"><a href="#hobby">My Favorite hobby</a></li>
+        <li class="link"><a href="#work">MY WORK</a></li>
+        <li class="link"><a href="#inspiration">MY INSPIRATION</a></li>
+        <li class="link"><a href="#contact">CONATACT</a></li>
+    </ul>
+</head>
+    
+    <body>
+<section id="jis"><img src="IMG_20191101_162931.jpg" />
+    <h1>My hobby is painting</h1>
+</section>
+<section id="jish">
+    <h2>About</h2>
+    
+    <p>Painting has been a hobby I have embraced for quite some time. Ever since I took the paintbrush and just crafted something on paper, I have never looked back on it. Painting has been a hobby that gives me joy because I can draw my imaginations into an art piece and make the best out of it.</p>
+</section>
+        <section id="about">
+        <iframe height="1000" width="1000" src="https://en.wikipedia.org/wiki/Virat_Kohli#National_honours"></iframe>
+        </section>
+    </body>
+    
+</html>
